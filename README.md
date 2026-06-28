@@ -1,40 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=230&section=header&text=lyric-jl&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Automation%20Systems%20%2F%20Bot%20Infrastructure%20%2F%20Full-Stack%20Shipping&descSize=17&descAlignY=55&animation=fadeIn" alt="lyric-jl profile header" />
+<img src="./assets/command-center.svg" alt="lyric-jl automation command center" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=850&color=60A5FA&center=true&vCenter=true&random=false&width=760&lines=I+build+automation+that+keeps+running.;Python+%2B+Docker+%2B+WebSocket+%2B+real-world+ops.;Small+tools%2C+sharp+edges%2C+production+mindset.;Turning+messy+workflows+into+quiet+systems." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=820&lines=Designing+automation+systems+that+stay+online.;Turning+messy+workflows+into+quiet+infrastructure.;Python+%2F+TypeScript+%2F+Docker+%2F+Linux+ops.;Bots%2C+dashboards%2C+services%2C+and+the+glue+between+them." alt="typing intro" />
 </a>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=lyric-jl&style=flat-square&color=2563EB" alt="Profile views" />
-<a href="https://github.com/lyric-jl?tab=followers">
-  <img src="https://img.shields.io/github/followers/lyric-jl?style=flat-square&logo=github&label=Followers&color=7C3AED" alt="GitHub followers" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=lyric-jl&style=flat-square&color=0ea5e9" alt="profile views" />
+<img src="https://img.shields.io/github/followers/lyric-jl?style=flat-square&logo=github&label=followers&color=7c3aed" alt="followers" />
+<img src="https://img.shields.io/badge/status-building%20quiet%20systems-22c55e?style=flat-square" alt="status" />
 
 </div>
 
 ---
 
-### About
+### Control Plane
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-I like building useful systems: the kind that remove repetitive work, survive real traffic, and stay understandable after the first burst of excitement.
+I build automation-heavy software: bot systems, background workers, dashboards, deployment glue, and real-time interfaces that turn repeated manual work into stable infrastructure.
 
-Right now my focus is on automation tools, bot workflows, Dockerized services, and real-time web interfaces. I care about small details, boring reliability, and shipping things that actually help.
+My favorite kind of product feels boring in production: observable, repairable, and clear enough that future-me can still understand it at 3 AM.
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
 <pre>
-Focus     Automation / bots / ops tools
-Stack     Python / TypeScript / Docker
-Runtime   Linux / Nginx / Redis / Postgres
-Mode      Build fast, simplify harder
+operator   lyric-jl
+focus      automation systems / bot infra
+runtime    linux / docker / nginx
+signal     small tools, sharp reliability
+mode       ship, observe, simplify
 </pre>
 
 </td>
@@ -43,29 +43,29 @@ Mode      Build fast, simplify harder
 
 ---
 
-### What I Build
+### Active Modules
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**Automation Engines**
+**Automation Core**
 
-Bots, task runners, scheduled jobs, and workflow systems that turn manual routines into reliable background processes.
-
-</td>
-<td width="33%" valign="top">
-
-**Full-Stack Tools**
-
-Dashboards, admin panels, API services, and real-time interfaces for operating and observing production systems.
+Workflow bots, schedulers, task runners, account systems, and the boring logic that removes repetitive work.
 
 </td>
 <td width="33%" valign="top">
 
-**Deployment Glue**
+**Ops Interface**
 
-Docker, Linux services, Nginx routing, database wiring, and the practical pieces that make software stay online.
+Admin dashboards, real-time panels, API surfaces, monitoring pages, and tooling for running systems without guessing.
+
+</td>
+<td width="33%" valign="top">
+
+**Deployment Layer**
+
+Dockerized services, Linux process management, Nginx routing, Redis/Postgres wiring, and production patch discipline.
 
 </td>
 </tr>
@@ -73,43 +73,48 @@ Docker, Linux services, Nginx routing, database wiring, and the practical pieces
 
 ---
 
-### Toolkit
+### Stack Matrix
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,go,react,docker,linux,nginx,postgres,mongodb,redis,git,github,githubactions,bash,vscode&theme=dark&perline=8" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,go,docker,linux,nginx,postgres,mongodb,redis,git,github,githubactions,bash,vscode&theme=dark&perline=8" alt="stack icons" />
+
+<br />
+
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=60a5fa" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=22d3ee" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=c4b5fd" alt="Linux" />
+<img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=f87171" alt="Redis" />
+<img src="https://img.shields.io/badge/Postgres-0f172a?style=for-the-badge&logo=postgresql&logoColor=38bdf8" alt="Postgres" />
 
 </div>
 
 ---
 
-### GitHub Pulse
+### Telemetry
 
 <div align="center">
 
-<img height="174" src="https://github-readme-stats.vercel.app/api?username=lyric-jl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=7C3AED&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="174" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyric-jl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img height="176" src="https://github-readme-stats.vercel.app/api?username=lyric-jl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=a855f7&text_color=cbd5e1&count_private=true&include_all_commits=true&rank_icon=github" alt="github stats" />
+<img height="176" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyric-jl&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1&langs_count=8" alt="top languages" />
 
 <br />
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lyric-jl&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lyric-jl&bg_color=0D1117&color=C9D1D9&line=60A5FA&point=7C3AED&area=true&area_color=2563EB&hide_border=true&radius=12" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lyric-jl&bg_color=020617&color=cbd5e1&line=38bdf8&point=a855f7&area=true&area_color=0ea5e9&hide_border=true&radius=12" alt="activity graph" />
 
 </div>
 
 ---
 
-### Contribution Flow
+### Contribution Signal
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lyric-jl/lyric-jl/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lyric-jl/lyric-jl/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/lyric-jl/lyric-jl/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/lyric-jl/lyric-jl/output/github-contribution-grid-snake-dark.svg" alt="contribution flow" />
 </picture>
 
 </div>
@@ -118,8 +123,6 @@ Docker, Linux services, Nginx routing, database wiring, and the practical pieces
 
 <div align="center">
 
-<sub>Built by <a href="https://github.com/lyric-jl">lyric-jl</a>. Always tuning the machine.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:2563EB,100:0F172A&height=110&section=footer&animation=fadeIn" alt="profile footer" />
+<sub>quiet systems / sharp tools / production discipline</sub>
 
 </div>
