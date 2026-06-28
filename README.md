@@ -2,12 +2,6 @@
 
 <img src="./assets/command-center.svg" alt="lyric-jl automation command center" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&random=false&width=820&lines=Designing+automation+systems+that+stay+online.;Turning+messy+workflows+into+quiet+infrastructure.;Python+%2F+TypeScript+%2F+Docker+%2F+Linux+ops.;Bots%2C+dashboards%2C+services%2C+and+the+glue+between+them." alt="typing intro" />
-</a>
-
-<br />
-
 <img src="https://komarev.com/ghpvc/?username=lyric-jl&style=flat-square&color=0ea5e9" alt="profile views" />
 <img src="https://img.shields.io/github/followers/lyric-jl?style=flat-square&logo=github&label=followers&color=7c3aed" alt="followers" />
 <img src="https://img.shields.io/badge/status-building%20quiet%20systems-22c55e?style=flat-square" alt="status" />
