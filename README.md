@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/command-center.svg" alt="lyric-jl automation command center" width="100%" />
+<img src="./assets/command-center-v2.svg" alt="lyric-jl automation command center" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=lyric-jl&style=flat-square&color=0ea5e9" alt="profile views" />
 <img src="https://img.shields.io/github/followers/lyric-jl?style=flat-square&logo=github&label=followers&color=7c3aed" alt="followers" />
